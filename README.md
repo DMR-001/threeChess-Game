@@ -54,7 +54,7 @@ The offical rules, and basic hints are available [here](https://www.threechess.c
 *   It is possible for a game to reach a position where the same position is repeated and no player can force the end of the game. In this case the game is a draw.
 *   In a time version of the game, each player is given an amount of time that accumulates while they are considering their move (i.e. from the time their opponent to the right completes a move, until they move a piece). Once this time reaches a limit, the player who ran out of time is the loser. in this case, the opponent with the most remaining pieces, and who took the most pieces is the winner.
 
-For this project you should in pairs. You will be required to research, implement and validate agents to play ThreeChess. You will be provided with a Java interface to implement an agent, some very basic agents, and a basic class to run a game. These will be made available on [github](https://github.com/drtnf/threeChess) and will be regularly updated.
+For this project you should in pairs. You will be required to research, implement and validate agents to play ThreeChess. You will be provided with a Java interface to implement an agent, some very basic agents, and a basic class to run a game. These will be made available on [github](https://github.com/DMR-001/threeChess-Game) and will be regularly updated.
 
 Files are provided for your agents to use including:
 
